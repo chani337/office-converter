@@ -1,0 +1,2 @@
+PyMuPDF>=1.26.5,<2
+pywin32>=306 ; sys_platform == "win32"

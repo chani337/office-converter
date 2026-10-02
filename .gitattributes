@@ -1,0 +1,6 @@
+*.py text eol=lf
+*.md text eol=lf
+*.bat -text whitespace=trailing-space,space-before-tab,cr-at-eol
+*.vbs -text
+*.dll binary
+*.traineddata binary

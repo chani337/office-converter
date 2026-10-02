@@ -1,0 +1,29 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.venv-backup-*/
+*.log
+*.log.*
+*.lock
+.stop-request
+*.pid
+.작업-*/
+.complete.json
+.env
+.env.*
+/PDF분할/변환할 파일/**
+!/PDF분할/변환할 파일/.gitkeep
+/PDF분할/PDF 변환 완료/**
+!/PDF분할/PDF 변환 완료/전체 PDF/
+!/PDF분할/PDF 변환 완료/전체 PDF/.gitkeep
+!/PDF분할/PDF 변환 완료/페이지별 PDF/
+!/PDF분할/PDF 변환 완료/페이지별 PDF/.gitkeep
+!/PDF분할/PDF 변환 완료/페이지별 JPG/
+!/PDF분할/PDF 변환 완료/페이지별 JPG/.gitkeep
+/PDF→한글/변환할 PDF/**
+!/PDF→한글/변환할 PDF/.gitkeep
+/PDF→한글/한글 변환 완료/**
+!/PDF→한글/한글 변환 완료/.gitkeep
+/PDF→한글/확인 필요/
+/PDF→한글/호환성 점검/
